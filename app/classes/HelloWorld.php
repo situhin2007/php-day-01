@@ -1,12 +1,12 @@
 <?php
 
 
-namespace app\classes;
+namespace App\classes;
 
 
 class HelloWorld{
 
-public message;
+public $message;
 
     public function __construct()
 {
