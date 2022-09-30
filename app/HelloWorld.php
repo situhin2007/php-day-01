@@ -4,8 +4,8 @@
 namespace app\classes;
 
 
-class HelloWorld
-{
+class HelloWorld{
+
 public message;
 
     public function __construct()
